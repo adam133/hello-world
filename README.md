@@ -1,4 +1,6 @@
 # hello-world
 TestRepo
 
-hello - I'm a pl/sql developer looking to expand my skills.
+Hello - I'm a pl/sql developer.
+
+Just trying out GITHUB. Cool concept.
